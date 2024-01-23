@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- 😄 GABRIEL Anthony
+- 🌱 I’m currently learning at 42 School in Paris.
+- 📫 How to reach me: mail.anthony42@gmail.com
 <!--
 **monsieurCanard/monsieurCanard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
