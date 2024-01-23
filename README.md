@@ -1,7 +1,4 @@
-<div id="header" align="center">
-<!--   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> -->
-  <iframe src="https://giphy.com/embed/HzPtbOKyBoBFsK4hyc" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/fomoduck-duck-fomo-forever-squad-HzPtbOKyBoBFsK4hyc">via GIPHY</a></p>
-</div>
+![header image of duck](https://media1.giphy.com/media/8bE0EERrvXkq5S9BCa/giphy.gif?cid=ecf05e470evdpsjiyhcvw1evvxa9njg27oick15qi4scbchr&ep=v1_gifs_related&rid=giphy.gif&ct=g)
 
 ### Hi there 👋
 - 😄 GABRIEL Anthony
