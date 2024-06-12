@@ -4,10 +4,10 @@
    <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkgray/antgabri?1337Badge=off&UM6P=off" alt="antgabri's 42 stats" /></a>
     <h1>  Latest Projects :</h1>
   <br>
-   <img src="./badges/minitalkm.png" length="150" width="150">
    <img src="./badges/fract-olm.png" length="150" width="150">
   <img src="./badges/push_swapm.png" length="150" width="150">
   <img src="./badges/minishellm.png" length="150" width="150">
+  <img src="./badges/cub3dm.png" length="150" width="150">
   <h1>  📩 How to reach me: mail.anthony42@gmail.com</h1>
 <!-- <br>
     <a href="https://github.com/EniumRaphael/libft"><img src="./badges/libfte.png"  title="libft: 125/100" length="150" width="150"></a>
