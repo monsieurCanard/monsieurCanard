@@ -16,11 +16,21 @@
          <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma3.svg" alt="Design" /><br> 
     <h1>  Projects ⚡ </h1>
   <br>
-   <img src="https://github.com/user-attachments/assets/bb871ba4-da82-4d27-8318-c7acd4e10584" length="100" width="100">
-  <img src="https://github.com/user-attachments/assets/7cd7c765-290f-4e19-b08e-f724fb5da428" length="100" width="100">
-  <img src="https://github.com/user-attachments/assets/225e8037-dc29-4670-b6e4-c201db873469" length="100" width="100">
-  <img src="https://github.com/user-attachments/assets/bb470ea2-255a-4e4a-a2bd-1bc4f9985073" length="100" width="100">
-  <img src="https://github.com/user-attachments/assets/52feec0b-882d-4147-be35-05b36b20b60a" length="100" width="100">
+   <a 
+    href="https://github.com/monsieurCanard/Fract-ol">
+    <img src="https://github.com/user-attachments/assets/bb871ba4-da82-4d27-8318-c7acd4e10584" length="100" width="100"> </a>
+ <a
+  href="https://github.com/monsieurCanard/Push_swap">
+  <img src="https://github.com/user-attachments/assets/7cd7c765-290f-4e19-b08e-f724fb5da428" length="100" width="100"> </a>
+ <a
+  href="https://github.com/Luma-3/Minishell">
+  <img src="https://github.com/user-attachments/assets/225e8037-dc29-4670-b6e4-c201db873469" length="100" width="100"> </a>
+ <a
+  href="https://github.com/monsieurCanard/Cub3d">
+  <img src="https://github.com/user-attachments/assets/bb470ea2-255a-4e4a-a2bd-1bc4f9985073" length="100" width="100"></a>
+ <a
+  href="https://github.com/monsieurCanard/CPP_modules">
+  <img src="https://github.com/user-attachments/assets/52feec0b-882d-4147-be35-05b36b20b60a" length="100" width="100"></a>
 
 <br><br>
     <img src="https://github-readme-stats.vercel.app/api?username=monsieurCanard&show_icons=true&theme=calm_pink&?count_private=true&include_all_commits=true" length="150" width="450"> 
