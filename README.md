@@ -1,9 +1,8 @@
 
-![profil_banner](https://github.com/user-attachments/assets/dea14363-3e17-4ed1-b195-4d13dce486b2)
+![profil_banner](https://github.com/user-attachments/assets/9a57e949-2206-466b-9c2a-e83a2f5129ee)
 
 
 <div align="center" style="display: place-content: center;">
-  <h1> Hi ducks ! 🦆 👋</h1>
    <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkgray/antgabri?1337Badge=off&UM6P=off" alt="antgabri's 42 stats" /></a>
     <h1>  Latest Projects :</h1>
   <br>
