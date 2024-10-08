@@ -16,6 +16,9 @@
          <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma3.svg" alt="Design" /><br> 
     <h1>  Projects ⚡ </h1>
   <br>
+ <a
+  href="https://github.com/monsieurCanard/C-functions-library">
+  <img src="https://github.com/user-attachments/assets/399dbfe4-79eb-45b5-9bca-71eac925aed7" length="100" width="100"></a>
    <a 
     href="https://github.com/monsieurCanard/Fract-ol">
     <img src="https://github.com/user-attachments/assets/bb871ba4-da82-4d27-8318-c7acd4e10584" length="100" width="100"> </a>
