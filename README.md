@@ -3,28 +3,7 @@
 <div align="center" style="display: place-content: center;">
  <img src="https://github.com/user-attachments/assets/0919b9f6-643d-48a5-940f-66c1ba6ce698" alt="" /><br>
  <img src="https://github.com/user-attachments/assets/db77d00f-b83a-4095-9344-b1bc34137820" alt="" /><br>
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://me.duckiverse.com" target="_blank">
-        <img src="https://github.com/user-attachments/assets/0b9baf1b-a09a-4412-bfeb-0fd637f6bb2d" 
-             alt="Site Web" 
-             height="60"/>
-        <br>
-        <sub><b>Portfolio</b></sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://leetcode.com/u/monsieurcanard/" target="_blank">
-        <img src="https://github.com/user-attachments/assets/d3547c74-be66-40fd-bb80-63e724c89044" 
-             alt="LeetCode" 
-             height="60"/>
-        <br>
-        <sub><b>LeetCode</b></sub>
-      </a>
-    </td>
-  </tr>
-</table>
+
 
 
  <!-- Currently -->
@@ -57,7 +36,28 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=monsieurCanard&layout=compact&langs_count=8&card_width=100&theme=moltack" />
 </a>
-
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://me.duckiverse.com" target="_blank">
+        <img src="https://github.com/user-attachments/assets/0b9baf1b-a09a-4412-bfeb-0fd637f6bb2d" 
+             alt="Site Web" 
+             height="60"/>
+        <br>
+        <sub><b>Portfolio</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://leetcode.com/u/monsieurcanard/" target="_blank">
+        <img src="https://github.com/user-attachments/assets/d3547c74-be66-40fd-bb80-63e724c89044" 
+             alt="LeetCode" 
+             height="60"/>
+        <br>
+        <sub><b>LeetCode</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
 <!-- Footer -->
  <img src="https://github.com/user-attachments/assets/99684898-713d-4555-b476-efc028dc2f67" alt="" />
 </div>
