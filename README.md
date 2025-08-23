@@ -33,7 +33,7 @@
   <a href="https://github.com/monsieurCanard/Inception">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=monsieurCanard&theme=moltack" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/monsieurCanard">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=monsieurCanard&layout=compact&langs_count=8&card_width=100&theme=moltack" />
 </a>
 <table>
