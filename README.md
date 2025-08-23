@@ -10,6 +10,8 @@
  <img src="https://github.com/user-attachments/assets/a705aa22-7913-4e5c-973c-9886804fffee" alt="" /><br><br>
 
   <img src="https://github-readme-stats.vercel.app/api?username=monsieurCanard&show_icons=true&theme=calm_pink&?count_private=true&include_all_commits=true" length="150" width="450"> 
- <img src="github-readme-streak-stats.herokuapp.com/?user=monsieurCanard&theme=calm_pink" length="150" width="450"> 
+
+<br>
+ <img src="https://github.com/user-attachments/assets/99684898-713d-4555-b476-efc028dc2f67" alt="" />
 </div>
 
