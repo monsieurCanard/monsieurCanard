@@ -31,10 +31,10 @@
 
  <img src="https://github.com/user-attachments/assets/a705aa22-7913-4e5c-973c-9886804fffee" alt="" /><br><br>
   <a href="https://github.com/monsieurCanard/Inception">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=monsieurCanard&theme=moltack" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=monsieurCanard&theme=moltack&rank_icon=github" />
 </a>
 <a href="https://github.com/monsieurCanard">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=monsieurCanard&layout=compact&langs_count=8&card_width=100&theme=moltack" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=monsieurCanard&layout=compact&langs_count=8&card_width=100&theme=moltack&hide_progress=true" />
 </a>
 <table>
   <tr>
