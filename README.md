@@ -29,24 +29,33 @@
 
  <!-- Currently -->
  <img src="https://github.com/user-attachments/assets/90f8d0f1-163b-446f-91f6-d2b8a7598187" alt="" /> <br>
- <!--
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+ 
+<a href="https://github.com/monsieurCanard/libASM">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=monsieurCanard&repo=libASM&theme=moltack" />
 </a>
+<!--
 <a href="https://github.com/Luma-3/ft_transcendence">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=monsieurCanard&repo=ft_transcendence" />
 </a>
 -->
 <br>
+<br>
 
  <!--Latest -->
  <img src="https://github.com/user-attachments/assets/c9187600-aa73-4a92-90c1-148ccfb2bf09" alt="" /><br>
+ <a href="https://github.com/monsieurCanard/inception">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=monsieurCanard&repo=inception&theme=moltack" />
+</a>
+ <a href="https://github.com/monsieurCanard/cub3d">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=monsieurCanard&repo=cub3d&theme=moltack" />
+</a>
+
  <img src="https://github.com/user-attachments/assets/a705aa22-7913-4e5c-973c-9886804fffee" alt="" /><br><br>
   <a href="https://github.com/monsieurCanard/Inception">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=monsieurCanard" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=monsieurCanard&theme=moltack" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=monsieurCanard&layout=compact&langs_count=8&card_width=100" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=monsieurCanard&layout=compact&langs_count=8&card_width=100&theme=moltack" />
 </a>
 
 <!-- Footer -->
