@@ -12,11 +12,9 @@
 <a href="https://github.com/monsieurCanard/libASM">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=monsieurCanard&repo=libASM&theme=moltack" />
 </a>
-<!--
-<a href="https://github.com/Luma-3/ft_transcendence">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=monsieurCanard&repo=ft_transcendence" />
+<a href="https://github.com/monsieurCanard/libftpp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=monsieurCanard&repo=libftpp&theme=moltack" />
 </a>
--->
 <br>
 <br>
 
