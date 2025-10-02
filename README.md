@@ -15,6 +15,10 @@
 <a href="https://github.com/monsieurCanard/libftpp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=monsieurCanard&repo=libftpp&theme=moltack" />
 </a>
+
+<a href="https://github.com/monsieurCanard/ft_ping">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=monsieurCanard&repo=ft_ping&theme=moltack" />
+</a>
 <br>
 <br>
 
