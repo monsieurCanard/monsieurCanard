@@ -43,7 +43,8 @@
 <a href="https://github.com/monsieurCanard">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=monsieurCanard&layout=compact&langs_count=8&card_width=100&theme=moltack&hide_progress=true" />
 </a>
-<table>
+<br> <br>
+<!-- <table>
   <tr>
     <td align="center">
       <a href="https://me.duckiverse.com" target="_blank">
@@ -64,8 +65,9 @@
       </a>
     </td>
   </tr>
-</table>
+</table> -->
 <!-- Footer -->
  <img src="https://github.com/user-attachments/assets/99684898-713d-4555-b476-efc028dc2f67" alt="" />
+ 
 </div>
 
