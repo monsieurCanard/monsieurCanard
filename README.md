@@ -18,7 +18,11 @@
 </a>
 <br>
 <br>
-
+<a href="https://github.com/monsieurCanard/ft_linear_regression">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=monsieurCanard&theme=moltack&repo=ft_linear_regression" />
+</a>
+<br>
+<br>
  <!--Latest -->
  <img src="https://github.com/user-attachments/assets/c9187600-aa73-4a92-90c1-148ccfb2bf09" alt="" /><br>
 
