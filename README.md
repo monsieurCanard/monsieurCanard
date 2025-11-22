@@ -13,6 +13,9 @@
 <a href="https://github.com/monsieurCanard/Arachnida">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=monsieurCanard&theme=moltack&repo=Arachnida" />
 </a>
+<a href="https://github.com/monsieurCanard/Scorpion">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=monsieurCanard&theme=moltack&repo=Scorpion" />
+</a>
 <br>
 <br>
 
