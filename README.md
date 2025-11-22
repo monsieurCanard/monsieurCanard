@@ -11,15 +11,15 @@
  
 
 <a href="https://github.com/monsieurCanard/Arachnida">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=monsieurCanard&theme=moltack&repo=Arachnida" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=monsieurCanard&theme=moltack&repo=Arachnida&cache_seconds=60" />
 </a>
 <a href="https://github.com/monsieurCanard/Scorpion">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=monsieurCanard&theme=moltack&repo=Scorpion" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=monsieurCanard&theme=moltack&repo=Scorpion&cache_seconds=60" />
 </a>
 <br>
 <br>
 <a href="https://github.com/monsieurCanard/ft_linear_regression">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=monsieurCanard&theme=moltack&repo=ft_linear_regression" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=monsieurCanard&theme=moltack&repo=ft_linear_regression&cache_seconds=60" />
 </a>
 <br>
 <br>
@@ -27,18 +27,18 @@
  <img src="https://github.com/user-attachments/assets/c9187600-aa73-4a92-90c1-148ccfb2bf09" alt="" /><br>
 
 <a href="https://github.com/monsieurCanard/ft_ping">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=monsieurCanard&theme=moltack&repo=ft_ping" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=monsieurCanard&theme=moltack&repo=ft_ping&cache_seconds=60" />
 </a>
 <a href="https://github.com/monsieurCanard/libftpp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=monsieurCanard&repo=libftpp&theme=moltack" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=monsieurCanard&repo=libftpp&theme=moltack&cache_seconds=60" />
 </a>
   <br>
   <br>
  <a href="https://github.com/monsieurCanard/libASM">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=monsieurCanard&repo=libASM&theme=moltack" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=monsieurCanard&repo=libASM&theme=moltack&cache_seconds=60" />
 </a>
  <a href="https://github.com/monsieurCanard/inception">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=monsieurCanard&repo=inception&theme=moltack" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=monsieurCanard&repo=inception&theme=moltack&cache_seconds=60" />
 </a>
 
 <br>
