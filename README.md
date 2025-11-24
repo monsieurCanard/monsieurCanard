@@ -9,7 +9,12 @@
  <!-- Currently -->
  <img src="https://github.com/user-attachments/assets/90f8d0f1-163b-446f-91f6-d2b8a7598187" alt="" /> <br>
  
-
+<a href="https://github.com/monsieurCanard/ft_onion">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=monsieurCanard&theme=moltack&repo=ft_onion&cache_seconds=3600" />
+</a>
+<a href="https://github.com/monsieurCanard/ft_opt">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=monsieurCanard&theme=moltack&repo=ft_opt&cache_seconds=3600" />
+</a>
 <a href="https://github.com/monsieurCanard/Arachnida">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=monsieurCanard&theme=moltack&repo=Arachnida&cache_seconds=3600" />
 </a>
