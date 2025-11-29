@@ -15,16 +15,18 @@
 <a href="https://github.com/monsieurCanard/ft_opt">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=monsieurCanard&theme=moltack&repo=ft_opt" />
 </a>
+
 <a href="https://github.com/monsieurCanard/Arachnida">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=monsieurCanard&theme=moltack&repo=Arachnida" />
 </a>
+
 <a href="https://github.com/monsieurCanard/Scorpion">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=monsieurCanard&theme=moltack&repo=Scorpion" />
 </a>
 <br>
 <br>
 <a href="https://github.com/monsieurCanard/ft_linear_regression">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=monsieurCanard&theme=moltack&repo=ft_linear_regression&cache_seconds=3600" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=monsieurCanard&theme=moltack&repo=ft_linear_regression" />
 </a>
 <br>
 <br>
