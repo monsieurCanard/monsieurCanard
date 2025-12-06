@@ -57,7 +57,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=monsieurCanard&theme=moltack&rank_icon=github" />
 </a>
 <a href="https://github.com/monsieurCanard">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=monsieurCanard&layout=compact&langs_count=8&card_width=100&theme=moltack&hide_progress=true" />
+  <img width="800" height="992" alt="Image" src="https://github.com/user-attachments/assets/8031b439-fac2-402a-9cac-c5732aca1594" />
 </a>
 <br> <br>
 <!-- <table>
