@@ -52,13 +52,8 @@
 
 <br>
 <br>
- <img src="https://github.com/user-attachments/assets/a705aa22-7913-4e5c-973c-9886804fffee" alt="" /><br><br>
-  <a href="https://github.com/monsieurCanard/Inception">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=monsieurCanard&theme=moltack&rank_icon=github" />
-</a>
-<a href="https://github.com/monsieurCanard">
-  <img width="800" height="992" alt="Image" src="https://github.com/user-attachments/assets/8031b439-fac2-402a-9cac-c5732aca1594" />
-</a>
+<!-- <img width="571" height="778" alt="Image" src="https://github.com/user-attachments/assets/972c3c0b-159a-4dc7-bab2-a4db17d322ae" /> -->
+<img width="571" height="778" alt="Image" src="https://github.com/user-attachments/assets/c0c71ef7-1fed-45a8-b963-d99f2930bd04" />
 <br> <br>
 <!-- <table>
   <tr>
