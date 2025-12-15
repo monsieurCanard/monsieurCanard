@@ -12,9 +12,12 @@
 <a href="https://github.com/monsieurCanard/ft_onion">
   <img width="400" height="496" alt="Image" src="https://github.com/user-attachments/assets/8d7f503e-3781-457b-ad65-bd11c2796a1b" />
 </a>
-<!-- <a href="https://github.com/monsieurCanard/ft_opt">
-  <img width="400" height="496" alt="Image" src="https://github.com/user-attachments/assets/fa36d304-32f8-4fed-be3f-96034e3a1afe" />
-</a> -->
+<a href="https://github.com/monsieurCanard/Stockholm">
+  <img width="400" height="496" alt="Image" src="https://github.com/user-attachments/assets/16b07903-ae37-4b36-bfbf-5f99c71f4c66" />
+</a>
+<a href="https://github.com/monsieurCanard/SnowCrash">
+  <img width="400" height="496" alt="Image" src="https://github.com/user-attachments/assets/50192f75-98c0-4da0-9c81-0a059cef0dd0" />
+</a>
 
 
 <!-- <a href="https://github.com/monsieurCanard/Scorpion">
