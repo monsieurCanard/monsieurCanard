@@ -13,7 +13,7 @@
   <img width="400" height="496" alt="Image" src="https://github.com/user-attachments/assets/8d7f503e-3781-457b-ad65-bd11c2796a1b" />
 </a>
 <a href="https://github.com/monsieurCanard/Stockholm">
-  <img width="400" height="496" alt="Image" src="https://github.com/user-attachments/assets/16b07903-ae37-4b36-bfbf-5f99c71f4c66" />
+  <img width="400" height="496" alt="Image" src="https://github.com/user-attachments/assets/b610d372-46fb-45ad-a922-6a6faf38609b" />
 </a>
 <a href="https://github.com/monsieurCanard/SnowCrash">
   <img width="400" height="496" alt="Image" src="https://github.com/user-attachments/assets/50192f75-98c0-4da0-9c81-0a059cef0dd0" />
