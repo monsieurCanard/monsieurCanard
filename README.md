@@ -13,7 +13,7 @@
   <img width="400" height="496" alt="Image" src="https://github.com/user-attachments/assets/8d7f503e-3781-457b-ad65-bd11c2796a1b" />
 </a>
 <a href="https://github.com/monsieurCanard/ft_opt">
-  <img width="400" height="496" alt="Image" src="https://github.com/user-attachments/assets/ced8ea30-b584-477f-aaa2-633ab5ffe1f6" />
+  <img width="400" height="496" alt="Image" src="https://github.com/user-attachments/assets/fa36d304-32f8-4fed-be3f-96034e3a1afe" />
 </a>
 
 
