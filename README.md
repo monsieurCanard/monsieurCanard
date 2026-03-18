@@ -15,9 +15,6 @@
 <a href="https://github.com/monsieurCanard/Stockholm">
   <img width="400" height="496" alt="Image" src="https://github.com/user-attachments/assets/b610d372-46fb-45ad-a922-6a6faf38609b" />
 </a>
-<a href="https://github.com/monsieurCanard/SnowCrash">
-  <img width="400" height="496" alt="Image" src="https://github.com/user-attachments/assets/50192f75-98c0-4da0-9c81-0a059cef0dd0" />
-</a>
 
 
 <!-- <a href="https://github.com/monsieurCanard/Scorpion">
@@ -34,6 +31,9 @@
  <img src="https://github.com/user-attachments/assets/c9187600-aa73-4a92-90c1-148ccfb2bf09" alt="" />
  <br>
  <br>
+ <a href="https://github.com/monsieurCanard/SnowCrash">
+  <img width="400" height="496" alt="Image" src="https://github.com/user-attachments/assets/50192f75-98c0-4da0-9c81-0a059cef0dd0" />
+</a>
 <a href="https://github.com/monsieurCanard/ft_opt">
   <img width="400" height="496" alt="Image" src="https://github.com/user-attachments/assets/fa36d304-32f8-4fed-be3f-96034e3a1afe" />
 </a>
@@ -43,10 +43,6 @@
 
  <a href="https://github.com/monsieurCanard/ft_ping">
   <img width="400" height="496" alt="Image" src="https://github.com/user-attachments/assets/de20db67-c55d-4784-bc2c-c6c7b56442b4" />
-</a>
-
-<a href="https://github.com/monsieurCanard/libftpp">
-<img width="400" height="496" alt="Image" src="https://github.com/user-attachments/assets/8b8c01c2-0b48-454f-8f62-0ff0f01de7b5" />
 </a>
 
  <!-- <a href="https://github.com/monsieurCanard/inception">
