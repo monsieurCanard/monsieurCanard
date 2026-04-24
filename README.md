@@ -33,7 +33,6 @@
  <!--Latest -->
  <img src="https://github.com/user-attachments/assets/c9187600-aa73-4a92-90c1-148ccfb2bf09" alt="" />
  <br>
- <br>
  <a href="https://github.com/monsieurCanard/SnowCrash">
   <img width="400" height="150" alt="Image" src="https://github.com/user-attachments/assets/50192f75-98c0-4da0-9c81-0a059cef0dd0" />
 </a>
