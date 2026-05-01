@@ -13,7 +13,6 @@
 <a href="https://github.com/monsieurCanard/Quantum-Coding">
  <img width="400" height="150" alt="Image" src="https://github.com/user-attachments/assets/68924b0a-79f2-45b0-abe2-4983025d6f6a" />
 </a>
- <div align="center">
 <a href="https://github.com/monsieurCanard/dr-quine">
  <img width="400" height="150" alt="Image" src="https://github.com/user-attachments/assets/8609e047-e319-434b-9fd4-a52b09f3c38f" />
 </a>
