@@ -10,9 +10,6 @@
 
  <!-- Currently -->
   <div align="center">
-<a href="https://github.com/monsieurCanard/Inception_Of_Things">
-   <img width="400" height="150" alt="Image" src="https://github.com/user-attachments/assets/2d2c5e51-0d84-4e34-8641-005efc98c881" />
-</a>
 <a href="https://github.com/monsieurCanard/Quantum-Coding">
  <img width="400" height="150" alt="Image" src="https://github.com/user-attachments/assets/68924b0a-79f2-45b0-abe2-4983025d6f6a" />
 </a>
@@ -36,6 +33,9 @@
  <!--Latest -->
  <img src="https://github.com/user-attachments/assets/c9187600-aa73-4a92-90c1-148ccfb2bf09" alt="" />
  <br>
+ <a href="https://github.com/monsieurCanard/Inception_Of_Things">
+   <img width="400" height="150" alt="Image" src="https://github.com/user-attachments/assets/2d2c5e51-0d84-4e34-8641-005efc98c881" />
+</a>
  <a href="https://github.com/monsieurCanard/dr-quine">
  <img width="400" height="150" alt="Image" src="https://github.com/user-attachments/assets/8609e047-e319-434b-9fd4-a52b09f3c38f" />
 </a>
